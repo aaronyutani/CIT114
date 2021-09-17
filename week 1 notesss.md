@@ -20,4 +20,5 @@ _More and more companies want to implement more intuitive and sophisticated solu
 
 ###### 1.3 Hardware vs Software
 _Hardware includes all the physical aspects of an information technology system. This includes physical components installed inside a computer like the motherboard, central processing unit (CPU), Random Access Memory (RAM), and hard drives._
+
 _Unlike hardware, software is not something you can physically touch or manipulate. Software encompasses all the data, application code and programs stored digitally, like an operating system or a document editor._

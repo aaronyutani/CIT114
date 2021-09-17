@@ -11,4 +11,10 @@ _in this class you will explore:_
 * Management and governance
 
 ###### 1.2 Why Is Information Technology Important?
-_
+_The work of most businesses, schools, or organizations would slow to a crawl or stop without functioning Information Technology (IT) systems._
+_More and more companies want to implement more intuitive and sophisticated solutions. “IT can provide the edge a company needs to outsmart, outpace and out-deliver competitors,” says Edward Kiledjian, a Chief Information Security Officer and technology blogger._
+* Data Overload: Businesses need to process huge amounts of data. This requires large amounts of processing power, sophisticated software and human analytical skills.
+* Mobile and Wireless Usages: More employers are offering remote work options that require smartphones, tablets and laptops with wireless hotspots and roaming ability.
+* Cloud Services: Many businesses no longer operate their own “server farms” to store massive amounts of data. Many businesses now work with cloud services—third-party hosting platforms that maintain that data.
+* Bandwidth for Video: Videoconferencing solutions have become more and more popular, so more network bandwidth is needed to support them sufficiently.
+

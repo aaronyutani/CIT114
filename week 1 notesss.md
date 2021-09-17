@@ -39,10 +39,25 @@ _Development is a process of writing and maintaining source code for software ap
 * Bug fixing any issues 
 
 _Security_
-*IT security is a set of cybersecurity strategies that prevents unauthorized access to organizational assets such as computers, networks, software, and data. It maintains the integrity and confidentiality of sensitive information, blocking the access of hackers.*
+* IT security is a set of cybersecurity strategies that prevents unauthorized access to organizational assets such as computers, networks, software, and data. It maintains the integrity and confidentiality of sensitive information, blocking the access of hackers.
 
 _Data_
-*Data is represented through quantities, characters, or symbols on which operations are performed by a computer are stored and recorded on magnetic, optical, or mechanical recording media, and transmitted in the form of digital electrical signals.*
+* Data is represented through quantities, characters, or symbols on which operations are performed by a computer are stored and recorded on magnetic, optical, or mechanical recording media, and transmitted in the form of digital electrical signals.
+
+###### 1.5 Common Terminology in IT: Introduction
+_This information will help you understand concepts in Cloud Computing which was born from traditional IT concepts._
+
+_common terminology in Information Technology, including:_
+* Job Roles & Occupations in IT
+* Computer Components
+  * Motherboard
+  * Central Processing Unit (CPU)
+  * Random Access Memory (RAM)
+  * Hard Drive
+* Areas of Information Technology
+
+  
+
 
 
 

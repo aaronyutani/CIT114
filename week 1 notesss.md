@@ -22,3 +22,27 @@ _More and more companies want to implement more intuitive and sophisticated solu
 _Hardware includes all the physical aspects of an information technology system. This includes physical components installed inside a computer like the motherboard, central processing unit (CPU), Random Access Memory (RAM), and hard drives._
 
 _Unlike hardware, software is not something you can physically touch or manipulate. Software encompasses all the data, application code and programs stored digitally, like an operating system or a document editor._
+
+###### 1.4: The Four Pillars of an IT Framework
+_Infrastructure_
+
+_development_
+
+_Development is a process of writing and maintaining source code for software applications or frameworks. It involves all phases of the software development life cycle, including_
+* Conceptualizing software
+* Defining requirements
+* Designing how it will work
+* Programming it
+* Documenting its functionality
+* Testing against the requirements
+* Bug fixing any issues 
+
+_Security_
+
+
+
+
+
+
+
+

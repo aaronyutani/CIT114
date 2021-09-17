@@ -25,6 +25,7 @@ _Unlike hardware, software is not something you can physically touch or manipula
 
 ###### 1.4: The Four Pillars of an IT Framework
 _Infrastructure_
+Defined broadly as a set of information technology (IT) components that are the foundation of an IT service; typically physical components such as computer and networking hardware and facilities), but also various software and network components.
 
 _development_
 
@@ -38,10 +39,10 @@ _Development is a process of writing and maintaining source code for software ap
 * Bug fixing any issues 
 
 _Security_
+*IT security is a set of cybersecurity strategies that prevents unauthorized access to organizational assets such as computers, networks, software, and data. It maintains the integrity and confidentiality of sensitive information, blocking the access of hackers.*
 
-
-
-
+_Data_
+*Data is represented through quantities, characters, or symbols on which operations are performed by a computer are stored and recorded on magnetic, optical, or mechanical recording media, and transmitted in the form of digital electrical signals.*
 
 
 

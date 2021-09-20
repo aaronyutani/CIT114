@@ -143,8 +143,17 @@ _Power Supply_
 _The power supply unit (PSU) converts alternating current (AC) electric power to low-voltage direct current (DC) power for the internal components of the computer. Laptops are capable of running from a built-in battery, normally for a period of hours, or by connecting to a power charger._
 * Input devices allow the user to enter data into a system, or control its operation. Most computers have a mouse and keyboard, but laptop systems typically use a touchpad instead of a mouse. Other input devices include webcams, microphones, joysticks, and image scanners.
 
+## concept overview 
 ###### 1. Summarize a few key points made in the readings or videos.
 _some key points that were made in week one is that it is veer important to know the terminology and what they are and mean_
 
-###### 2. 
+###### 2. Identify two quotes that were made, that you found interesting.
+_"ARM processors are used in 98% smart phones." i think this is very intersting because arm based chips are very efficient and now apple made a HUGE shift to ARM based chips. 
 
+_" SSD has no moving parts which gives it advantages such as faster access time, noiseless operation, higher reliability, and lower power consumption" i found this very interesting because it is true. they are so fast that you can edit a video from it._
+
+###### 3. What new facts did you learn from this section?
+_i learned that there are different sizes for motherboards. and i did not know you can use water to cool down your PC._
+
+###### 4. What questions remain in your mind after reading this section?
+_how do i build a PC?-

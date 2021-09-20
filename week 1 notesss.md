@@ -58,7 +58,7 @@ _common terminology in Information Technology, including:_
 * Areas of Information Technology
 
 ## 1.6 Terminology: Job Roles & Occupations
-_ Each role has a specialized focus such as analyists, scientists, architects, programmers and administrators. Many of the roles started in traditional IT focuses then expanded to also include cloud computing. Understanding of cloud is also starting to become its own role or occupation_
+_Each role has a specialized focus such as analyists, scientists, architects, programmers and administrators. Many of the roles started in traditional IT focuses then expanded to also include cloud computing. Understanding of cloud is also starting to become its own role or occupation_
 
 ## 1.7 Terminology: Computer Components
 _Basic hardware components of a modern personal computer, include:_
@@ -121,4 +121,30 @@ _Expansion cards include but are not limited to:_
 
 _Graphics Processing Unit (GPU)_
 * Short for graphics processing unit, GPU is an electronic circuit used to speed up the creation of both 2D and 3D images. GPUs can either be integrated, meaning they are built into the computer's CPU or motherboard, or they can be dedicated, meaning they are a separate piece of hardware known as a video card. By having a separate processor, the GPU allows the computer's CPU resources to be used for other important tasks.
+
+## 1.14 Terminology: Misc
+_There are many other components you need to understand as an IT Professional. Power supplies, cooling, computer case, input/output devices, and peripherials are just a few. These are important to understand if you are managing physical computing equipment, however in cloud computing, the cloud provider has to worry about them._
+
+_Case_
+* The computer case encloses and holds most of the components of the system. It provides support and protection for internal elements such as the motherboard, disk drives, and power supplies, and controls and directs the flow of cooling air over internal components.
+
+_Cooling Fan_
+* A fan is a hardware device that keeps the overall computer or a computer device cool by circulating air to or from the computer or component. 
+
+_Heat Sink_
+* A heat sink is a device that incorporates either a fan or some other means to keep a hot component, such as a processor, cooled down. There are two heat sink types: active and passive.
+
+_Liquid Cooling_
+* In a computer, water cooling or liquid cooling is a system used to reduce the temperature of its hardware, specifically the CPU and GPU. Liquid is more efficient than gas at conducting thermal energy, so liquid cooled machines maintain desired operating temperatures better than their air cooled counterparts.
+
+_Power Supply_
+* The power supply unit (PSU) converts alternating current (AC) electric power to low-voltage direct current (DC) power for the internal components of the computer. Laptops are capable of running from a built-in battery, normally for a period of hours, or by connecting to a power charger.
+
+_The power supply unit (PSU) converts alternating current (AC) electric power to low-voltage direct current (DC) power for the internal components of the computer. Laptops are capable of running from a built-in battery, normally for a period of hours, or by connecting to a power charger._
+* Input devices allow the user to enter data into a system, or control its operation. Most computers have a mouse and keyboard, but laptop systems typically use a touchpad instead of a mouse. Other input devices include webcams, microphones, joysticks, and image scanners.
+
+###### 1. Summarize a few key points made in the readings or videos.
+_some key points that were made in week one is that it is veer important to know the terminology and what they are and mean_
+
+###### 2. 
 

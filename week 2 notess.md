@@ -133,10 +133,10 @@ _Easily deploy your application in multiple regions around the world with just a
 * Alan looks up at the sky.
 
 1. Summarize a few key points made in the readings or videos.
-the power of the cloud is unmatch is very much giving. 
+_the power of the cloud is unmatch is very much giving._
 2. Identify two quotes that were made, that you found interesting.
-dilberts persective is how i see the cloud sometimes. it is so funny laugh out loud. i found the other persectives very interesting because i can see why they see cloud computing in those ways. 
+_dilberts persective is how i see the cloud sometimes. it is so funny laugh out loud. i found the other persectives very interesting because i can see why they see cloud computing in those ways._
 3. What new facts did you learn from this section?
-cloud computing existed in the 60s. that does not exist to me. but i guess it did but go off 70s 
+_cloud computing existed in the 60s. that does not exist to me. but i guess it did but go off 70s_
 4. What questions remain in your mind after reading this section?
-why was this reading so long? i want to cry. 
+_why was this reading so long? i want to cry._

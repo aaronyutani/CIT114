@@ -103,3 +103,40 @@ _With all the data stored on the computers in the cloud, data mining and analysi
 6. Cloud computing is programmable
 
 _Many of the tasks that are necessary with cloud computing will wind up being automated. For example, to protect the integrity of the data, information stored on a single computer in the cloud will need to be replicated on other computers in the cloud. If one of these computers goes offline, the cloud's programming automatically redistributes load to one of these replicated backups._
+
+## 2.7 From Amazon's Perspective
+###### Six Advantages of Cloud Computing
+_As our understanding of cloud computing evolves, I thought it might help to examine how Amazon, an early pioneer of cloud computing, perceives this topic. From Amazon's perspective, there are six benefits of cloud computing:_
+
+1. Trade capital expense for variable expense
+_Instead of having to invest heavily in data centers and servers before you know how you’re going to use them, you can only pay when you consume computing resources, and only pay for how much you consume._
+
+2. Benefit from massive economies of scale
+_By using cloud computing, you can achieve a lower variable cost than you can get on your own. Because usage from hundreds of thousands of customers are aggregated in the cloud, providers such as Amazon Web Services can achieve higher economies of scale which translates into lower pay as you go prices._
+
+3. Stop guessing capacity
+_Eliminate guessing on your infrastructure capacity needs. When you make a capacity decision prior to deploying an application, you often either end up sitting on expensive idle resources or dealing with limited capacity. With Cloud Computing, these problems go away. You can access as much or as little as you need, and scale up and down as required with only a few minutes notice._
+
+4. Increase speed and agility
+_In a cloud computing environment, new IT resources are only ever a click away, which means you reduce the time it takes to make those resources available to your developers from weeks to just minutes. This results in a dramatic increase in agility for the organization, since the cost and time it takes to experiment and develop is significantly lower._
+
+5. Stop spending money on running and maintaining data centers
+_Focus on projects that differentiate your business, not the infrastructure. Cloud computing lets you focus on your own customers, rather than on the heavy lifting of racking, stacking and powering servers._
+
+6. Go global in minutes
+_Easily deploy your application in multiple regions around the world with just a few clicks. This means you can provide a lower latency and better experience for your customers simply and at minimal cost._
+
+## 2.8 From Dilbert's Perspective
+* Pointy Hair Boss: Alan has been out of the workforce for a long time. I need you to ease him back in.
+* Alan: Do you have a binder of the company policies?
+* Dilbert: It's in the Clouds.
+* Alan looks up at the sky.
+
+1. Summarize a few key points made in the readings or videos.
+the power of the cloud is unmatch is very much giving. 
+2. Identify two quotes that were made, that you found interesting.
+dilberts persective is how i see the cloud sometimes. it is so funny laugh out loud. i found the other persectives very interesting because i can see why they see cloud computing in those ways. 
+3. What new facts did you learn from this section?
+cloud computing existed in the 60s. that does not exist to me. but i guess it did but go off 70s 
+4. What questions remain in your mind after reading this section?
+why was this reading so long? i want to cry. 

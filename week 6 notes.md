@@ -102,3 +102,11 @@ _You have the following options for protecting data at rest in Amazon services:_
 * Server-Side Encryption – Request Amazon to encrypt your data before saving it on disks in its data centers and then decrypt it when you download the data.
 * Client-Side Encryption – Encrypt data client-side and upload the encrypted data to an Amazon data center. In this case, you manage the encryption process, the encryption keys, and related tools.
 
+1. Summarize a few key points made in the readings or videos.
+_cyber secutiry is really important to keep the data safe from people or sofware viruses._
+2. Identify two quotes that were made, that you found interesting.
+_"Among these dangers are malware erasing your entire system, an attacker breaking into your system and altering files, an attacker using your computer to attack others, or an attacker stealing your credit card information and making unauthorized purchases". i think it is so crazy your life can change so much from all that_
+3. What new facts did you learn from this section?
+_"There is no guarantee that even with the best precautions some of these things won't happen to you"_
+4. What questions remain in your mind after reading this section?
+_what is cyber security? is my only questioni feel_

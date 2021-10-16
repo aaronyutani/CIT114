@@ -51,7 +51,7 @@ _An IAM user is a person or application that is defined in an AWS account, and t
 * Programmatic access via the AWS Command Line Interface (CLI) or AWS Software Development Kit (SDK)
 * AWS Management Console access via IAM were a 12 digit Account ID, IAM Username, and IAM Password are assigned with optional multi-factor authentication (MFA).
 
-###### IAM Group
+##### IAM Group
 
 _An IAM group is a collection of IAM users. You can use IAM groups to simplify specifying and managing permissions for multiple users._
 
@@ -68,4 +68,37 @@ _An IAM role is a tool for granting temporary access to specific AWS resources i
 
 ## 6.09 Four Ways to use IAM
 
+##### AWS Management Console
+_The console is a browser-based interface to manage IAM and AWS resources. For more information about accessing IAM through the console_
+
+##### AWS Command Line Tools
+_You can use the AWS command line tools to issue commands at your system's command line to perform IAM and AWS tasks. Using the command line can be faster and more convenient than the console._
+
+##### AWS SDKs
+_AWS provides SDKs (software development kits) that consist of libraries and sample code for various programming languages and platforms (Java, Python, Ruby, .NET, iOS, Android, etc.)_
+
+##### IAM HTTPS API
+_You can access IAM and AWS programmatically by using the IAM HTTPS API, which lets you issue HTTPS requests directly to the service_
+
+## 6.12 Securing Accounts
+_Securing the cloud is about more than just using Identity and Access Management._
+
+##### AWS Organizations
+_AWS Organizations is an account management service that helps you centrally govern your environment as you grow and scale your workloads on AWS_
+* Ability to centrally manage policies across multiple aws accounts
+* Automation of aws account creation and management
+* Consolidation of billing across multiple aws accounts
+* Ability to govern access to aws services, resources, and regions
+* Ability to configure aws services across multiple accounts
+
+## 6.13 Securing Data
+_Careful consideration must be taken when protecting data as it is often worth more than the hardware it is stored on_
+
+## Data at Rest
+_Data at rest is any information that is stored on a disk, tape or any medium in which it is not moving from system to system:_
+
+_You have the following options for protecting data at rest in Amazon services:_
+
+* Server-Side Encryption – Request Amazon to encrypt your data before saving it on disks in its data centers and then decrypt it when you download the data.
+* Client-Side Encryption – Encrypt data client-side and upload the encrypted data to an Amazon data center. In this case, you manage the encryption process, the encryption keys, and related tools.
 

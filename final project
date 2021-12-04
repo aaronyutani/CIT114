@@ -1,0 +1,17 @@
+1. What are the advantages of cloud computing over on-premises? Everything i virtual so you do not have to go in person. Saves time and energy.
+2. Given the setup instructions above, give examples of three different businesses that might begin with this setup. I do not like this question. 
+3. If we wanted to keep a close eye on how much the services were costing, which AWS service would we make use of? Thats a great question. I was not expecting that question. 
+4. We need to choose a support plan for the system we set up. What are four different support plans offered by AWS? Basic, Developer, Business, and Enterprise
+5. How many hours of service does the free-tier of EC2 provide during a billing cycle? 750 hours per month 
+6. What is the minimum size subnet you can have in an Amazon VPC? /28
+7. What is the maximum size IP address range you can have in an Amazon VPC? 65,536
+8. Which Elastic Compute Cloud (Amazon EC2) feature would ensure our instances will not share a physical host with instances from any other AWS Customer? Dedicated Instances will not share hosts with other accounts.
+9. Let's say our storage requirement allows for a delayed retrieval of data (ie. medical records from ex-patients). Which S3 feature should we choose? 
+10. List and briefly describe the four basic database commands.
+SELECT - extracts data from a database.
+UPDATE - updates data in a database.
+DELETE - deletes data from a database.
+INSERT INTO
+
+i tried my best on the first two parts but i kept doing something wrong. 
+i redid them both at least three times and i no progress was being made. i thought i had them down. sorry for letting you down 

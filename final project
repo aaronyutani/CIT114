@@ -8,10 +8,10 @@
 8. Which Elastic Compute Cloud (Amazon EC2) feature would ensure our instances will not share a physical host with instances from any other AWS Customer? Dedicated Instances will not share hosts with other accounts.
 9. Let's say our storage requirement allows for a delayed retrieval of data (ie. medical records from ex-patients). Which S3 feature should we choose? 
 10. List and briefly describe the four basic database commands.
-#SELECT 
-#UPDATE 
-#DELETE 
-#INSERT INTO
+# SELECT 
+# UPDATE 
+# DELETE 
+# INSERT INTO
 
 i tried my best on the first two parts but i kept doing something wrong. 
 i redid them both at least three times and i no progress was being made. i thought i had them down. sorry for letting you down 

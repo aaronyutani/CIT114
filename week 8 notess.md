@@ -48,10 +48,22 @@ _And within a table, each row represents a group of related data values._
 _A row, or record, is also known as a tuple._
 _The columns in a table is a field and is also referred to as an attribute. You can also think of it this way: an attribute is used to define the record and a record contains a set of attributes._
 
+_Column_
+* A database stores pieces of information or facts in an organized way.
+* Understanding how to use and get the most out of databases requires us to understand that method of organization.
 
+_Domain_
+* A domain is the original sets of atomic values used to model data. 
+* By atomic value, we mean that each value in the domain is indivisible as far as the relational model is concerned
 
-
-
+1. Summarize a few key points made in the readings or videos.
+_they were giving concepts and fundimentals for databases and properties of tables._
+2. Identify and provide two quotes that were made in the readings or videos, that you found interesting. Describe why you found each quote of them interesting.
+_"In the year 1970’s when relational database came into picture" thinking that the 70s had computers just does not exist to me_
+3. Outline the new facts that you learned from this section?
+_there are databases to store information and tables help keep them organized_
+4. What questions remain in your mind after reading this section?
+_what is a database?_
 
 
 

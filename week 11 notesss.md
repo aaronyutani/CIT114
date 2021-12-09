@@ -36,9 +36,21 @@ _The AWS Well-Architected Tool (AWS WA Tool) helps you review the state of your 
 * The tool is based on the AWS Well-Architected Framework (Links to an external site.), developed to help cloud architects build secure, high-performing, resilient, and efficient application infrastructure. 
 * This Framework provides a consistent approach for customers and partners to evaluate architectures, has been used in tens of thousands of workload reviews conducted by the AWS solutions architecture team, and provides guidance to help implement designs that scale with application needs over time.
 
+# 11.05 AWS Trusted Advisor
+_AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices._ 
+* Trusted Advisor checks help optimize your AWS infrastructure, increase security and performance, reduce your overall costs, and monitor service limits. 
+* Whether establishing new workflows, developing applications, or as part of ongoing improvement, take advantage of the recommendations provided by Trusted Advisor on a regular basis to help keep your solutions provisioned optimally.
 
-
-
+1. Summarize a few key points made in the readings or videos.
+_introducing concepts of scaling and monitoring. Ensuring an application has enough resources is important as its usage increases and decreases_
+2. Identify two quotes that were made, that you found interesting.
+_Monitor cloud systems and applications
+Solve common business problems using appropriate Information Technology applications and systems.
+Use a cloud control panel to create and manage cloud resources_
+3. What new facts did you learn from this section?
+_I learned to scale and Monitor services_
+4. What questions remain in your mind after reading this section?
+_what is cloud architecture_
 
 
 

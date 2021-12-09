@@ -62,15 +62,15 @@ _You can optionally associate an IPv6 CIDR block with your VPC and subnets, and 
 ## 7.10 Elastic Network Interfaces
 
 _An elastic network interface (referred to as a network interface in this documentation) is a virtual network interface that can include the following attributes:_
-# a primary private IPv4 address
-# one or more secondary private IPv4 addresses
-# one Elastic IP address per private IPv4 address
-# one public IPv4 address, which can be auto-assigned to the network interface for eth0 when you launch an instance
-# one or more IPv6 addresses
-# one or more security groups
-# a MAC address
-# a source/destination check flag
-# a description
+* a primary private IPv4 address
+* one or more secondary private IPv4 addresses
+* one Elastic IP address per private IPv4 address
+* one public IPv4 address, which can be auto-assigned to the network interface for eth0 when you launch an instance
+* one or more IPv6 addresses
+* one or more security groups
+* a MAC address
+* a source/destination check flag
+* a description
 
 _You can create a network interface, attach it to an instance, detach it from an instance, and attach it to another instance. A network interface's attributes follow it as it is attached or detached from an instance and reattached to another instance._
 

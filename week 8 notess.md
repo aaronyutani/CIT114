@@ -26,3 +26,32 @@ _We often need to access and re-sort data for various uses. These may include:_
 * Generating lists of selected news stories
 * Identifying various client needs
 
+_Characteristics and Benefits of a Database_
+* There are a number of characteristics that distinguish the database approach from the file-based system or approach. This chapter describes the benefits (and features) of the database system.
+
+### 10.03 Relational Databases
+_The relational data model was introduced by C. F. Codd in 1970. Currently, it is the most widely used data model._
+
+_The relational model has provided the basis for:_
+
+* Research on the theory of data/relationship/constraint
+* Numerous database design methodologies
+* The standard database access language called structured query language (SQL)
+* Almost all modern commercial database management systems
+* The relational data model describes the world as “a collection of inter-related relations (or tables).”
+
+Fundamental Concepts in the Relational Data Model
+Relation
+_A relation, also known as a table or file, is a subset of the Cartesian product of a list of domains characterized by a name._
+_And within a table, each row represents a group of related data values._
+
+_A row, or record, is also known as a tuple._
+_The columns in a table is a field and is also referred to as an attribute. You can also think of it this way: an attribute is used to define the record and a record contains a set of attributes._
+
+
+
+
+
+
+
+
